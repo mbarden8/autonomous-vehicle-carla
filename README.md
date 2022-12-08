@@ -1,5 +1,7 @@
 # CMDA Capstone Project: Self-Driving Vehicle w/ CARLA
 
+**Note: This project is adapted from Coursera, which handles most of the code interacting with CARLA. This way we were able to focus on the vehicle operability.**
+
 ## CARLA Installation
 
 This project uses CARLA 0.8.4 for its work. You can download a zip file of the binary with the following link:
